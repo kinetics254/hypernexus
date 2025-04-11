@@ -1,0 +1,1 @@
+{"version":3,"file":"TransportError.js","sourceRoot":"","sources":["../../../src/errors/TransportError.ts"],"names":[],"mappings":"AAAA,MAAM,OAAO,cAAe,SAAQ,KAAK;IAED;IAA4B;IADhE,8DAA8D;IAC9D,YAAY,OAAe,EAAS,UAAmB,EAAS,IAAU;QACtE,KAAK,CAAC,OAAO,CAAC,CAAC;QADiB,eAAU,GAAV,UAAU,CAAS;QAAS,SAAI,GAAJ,IAAI,CAAM;QAEtE,IAAI,CAAC,IAAI,GAAG,gBAAgB,CAAC;IACjC,CAAC;CACJ"}
